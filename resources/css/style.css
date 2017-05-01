@@ -1,4 +1,28 @@
 body {
-  font-family: Verdana, sans-serif;
+  font-family: Helvetica, sans-serif;
   text-align: center;
+}
+
+h1 {
+  font-size: 60px;
+  color: white;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+.hero-newyork {
+  background-image: url("../images/the-flatiron-building.png");
+  color: white;
+}
+
+.hero {
+  background-image: url("../images/the-flatiron-building.png");
+}
+
+.btn-nav {
+  color: white;
+  font-weight: bold;
+
 }
